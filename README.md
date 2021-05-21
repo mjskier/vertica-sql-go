@@ -12,7 +12,7 @@ vertica-sql-go has been tested with Vertica 10.1 and Go 1.13/1.14/1.15.
 
 ## This is only a test
 
-Just checking that a push triggers a successful build
+Just checking that a push triggers a successful build. I enabled CI on github
 
 ## Installation
 
