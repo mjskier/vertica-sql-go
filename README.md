@@ -10,6 +10,10 @@ Please check out [release notes](https://github.com/vertica/vertica-sql-go/relea
 
 vertica-sql-go has been tested with Vertica 10.1 and Go 1.13/1.14/1.15.
 
+## This is only a test
+
+Just checking that a push triggers a successful build
+
 ## Installation
 
 Source code for vertica-sql-go can be found at:
