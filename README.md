@@ -1,3 +1,4 @@
+# Look, I made a change
 # vertica-sql-go
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -79,7 +80,7 @@ Example:
 
 ```bash
 export VERTICA_SQL_GO_LOG_FILE=/var/log/vertica-sql-go.log
-``` 
+```
 
 ### Creating a connection
 
